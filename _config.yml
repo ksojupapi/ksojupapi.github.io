@@ -118,6 +118,8 @@ author:
   bio              : "Hottest korean in the game"
   location         : "Sydney"
   email            : "inseofromseoul@gmail.com"
+  linkedIn         : "https://www.linkedin.com/in/innseo-jung-b691582b1/"
+  Instagram        : "https://instagram.com/ksojupapi"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
