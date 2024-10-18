@@ -325,3 +325,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true             # Table of Contents 활성화
+      toc_label: "Table of Contents"  # TOC의 제목을 설정 (선택 사항)
+      toc_icon: "list"      # TOC 아이콘 (선택 사항, FontAwesome 아이콘)
+      toc_sticky: true      # TOC를 페이지에 고정시킬지 여부 (선택 사항)
