@@ -113,17 +113,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Innseo Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hottest korean in the game"
+  location         : "Sydney"
+  email            : "inseofromseoul@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "LinkedIn"
+      icon: "https://www.linkedin.com/in/innseo-jung-b691582b1/"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "https://instagram.com/ksojupapi"
       # url: "https://instagram.com/"
 
 # Site Footer
