@@ -8,7 +8,7 @@ cd _posts
 # 템플릿 파일 생성
 cat <<EOT >> $filename
 ---
-layout: post
+layout: single
 title: "$title"
 date: $(date +%Y-%m-%d' '%H:%M:%S' '%z)
 categories: [category1, category2]
@@ -16,7 +16,9 @@ tags: [tag1, tag2]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
-author: "Your Name"
+author: "Innseo Jung"
+email: "inseofromseoul@gmail.com"
+location: "Sydney"
 ---
 
 ## Introduction

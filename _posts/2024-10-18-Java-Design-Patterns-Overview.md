@@ -7,7 +7,9 @@ tags: [tag1, tag2]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
-author: "Your Name"
+author: "Innseo Jung"
+email : "inseofromseoul@gmail.com"
+location: "Sydney"
 ---
 
 ## Introduction
