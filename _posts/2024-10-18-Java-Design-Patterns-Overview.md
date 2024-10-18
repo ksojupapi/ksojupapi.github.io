@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Java Design Patterns Overview"
 date: 2024-10-18 16:45:17 +1100
 categories: [category1, category2]
